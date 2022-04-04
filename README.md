@@ -13,7 +13,7 @@ Here is an explanation of how the algorithm works(In Chinese) https://www.notion
 
 
 # Discord 
-link to discord server to visit record of live trading performance https://discord.gg/H7aHgVa5
+Link to discord server to visit record of old live trading performance https://discord.gg/H7aHgVa5
 
 
 
