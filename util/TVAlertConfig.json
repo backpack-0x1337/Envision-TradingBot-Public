@@ -1,0 +1,23 @@
+{
+    "Password": "123",
+    "Pair": "{{ticker}}",
+    "TF":"{{interval}}",
+    "Event": "RU",
+    "Price": "{{close}}",
+    "Time": "{{timenow}}",
+    "G":"{{plot_0}}",
+    "R":"{{plot_1}}",
+    "B":"{{plot_2}}",
+    "W":"{{plot_3}}",
+
+    "content": "{{interval}}",
+    "time": "{{time}}",
+    "price": "{{close}}",
+    "green": "{{plot_0}}",
+    "red": "{{plot_1}}",
+    "blue": "{{plot_2}}"
+
+}
+
+
+

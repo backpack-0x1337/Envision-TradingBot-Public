@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% block content %}
+<head>
+    <script src="https://unpkg.com/embeddable-nfts/dist/nft-card.min.js"></script>
+    <title>Title</title>
+</head>
+<body>
+    <h1><a href="https://www.pownft.com/collection/1706">Inspect</a></h1>
+    <div className="nft-embed"></div>
+    <script
+            async
+            src="https://nfte.app/api/embed.js?contract=0x9abb7bddc43fa67c76a62d8c016513827f59be1b&tokenId=1706">
+    </script>
+</body>
+{% endblock %}

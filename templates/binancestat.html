@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<div class="main" >
+
+
+    <!--    Change the image source '/images/default.jpg' with your favourite image.     -->
+
+    <div class="cover black" data-color="black"></div>
+
+    <!--   You can change the black color for the filter with those colors: blue, green, red, orange       -->
+
+    <div class="container">
+        <h1 class="logo ">
+
+        </h1>
+        <!--  H1 can have 2 designs: "logo" and "logo cursive"           -->
+
+        <div class="content">
+            <h4 class="motto" style.font-family="font-family: Futura,Trebuchet MS,Arial,sans-serif;"><strong>Binance Trading Account</strong></h4>
+
+            <div class="subscribe">
+                <p class="info-text" style="color:#a4fc94">  Status: Online </p>
+                {% for key in data %}
+                <p class="info-text">{{ key }}: {{ data[key] }}</p>
+                {% endfor %}
+{% endblock %}
