@@ -14,6 +14,7 @@ EnvisionPlus is a free and open source Binance crypto trading bot build with pyt
 - Flask
 - TradingView Web Hooks
 - Binance API
+- Heroku & Heroku Database
 
 # Key Achievements:
 
@@ -21,6 +22,7 @@ EnvisionPlus is a free and open source Binance crypto trading bot build with pyt
 - Developed a reliable backend using Flask to receive live data from TradingView
 - Effectively utilized Binance API to execute trading decisions in real-time
 - Designed a simple web user interface to monitor trading status and account balance
+- Deployed the program on Heroku and used Heroku database to log all trades, Candle history.. 
 
 # Backtest result
 <img width="752" alt="image" src="https://user-images.githubusercontent.com/71382503/161512402-e62901fd-8005-49e4-9a20-60530e0c68dd.png">
