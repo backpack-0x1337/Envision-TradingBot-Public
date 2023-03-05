@@ -6,15 +6,28 @@ EnvisionPlus is a free and open source Binance crypto trading bot build with pyt
 
 <img width="1676" alt="image" src="https://user-images.githubusercontent.com/71382503/161508199-6083fe28-a5eb-4381-95d0-c7fcc61bea04.png">
 
-Here is an explanation of how the algorithm works(In Chinese) https://www.notion.so/backpack00/Market-Prediction-ab9b7259889844d8b907b304cb692c48
+
+
+# Technologies Used:
+
+- Python
+- Flask
+- TradingView Web Hooks
+- Binance API
+
+# Key Achievements:
+
+- Successfully implemented a trading strategy based on Phoenix indicator
+- Developed a reliable backend using Flask to receive live data from TradingView
+- Effectively utilized Binance API to execute trading decisions in real-time
+- Designed a simple web user interface to monitor trading status and account balance
 
 # Backtest result
 <img width="752" alt="image" src="https://user-images.githubusercontent.com/71382503/161512402-e62901fd-8005-49e4-9a20-60530e0c68dd.png">
-
+Despite the promising results in backtesting, the algorithm did not end up being profitable.
 
 # Discord 
 Link to discord server to visit record of old live trading performance https://discord.gg/H7aHgVa5
-
 
 
 # Disclaimer
