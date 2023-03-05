@@ -28,7 +28,7 @@ EnvisionPlus is a free and open source Binance crypto trading bot build with pyt
 <img width="752" alt="image" src="https://user-images.githubusercontent.com/71382503/161512402-e62901fd-8005-49e4-9a20-60530e0c68dd.png">
 Despite the promising results in backtesting, the algorithm did not end up being profitable.
 
-# Discord 
+# Discord to see all the proof that Envision existed and all the trade records
 Link to discord server to visit record of old live trading performance https://discord.gg/H7aHgVa5
 
 
